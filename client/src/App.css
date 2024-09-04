@@ -1,0 +1,26 @@
+#root {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+
+.input-area{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.input-area input{
+  width: 70%;
+  border-radius: 8px;
+  background: white;
+  color: black;
+  
+}
+
+
+
+
+
+
